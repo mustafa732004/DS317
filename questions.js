@@ -219,7 +219,7 @@ const QUIZ_DATA = {
         { q: "The middleware layer hides heterogeneity mainly by:", opts: ["Removing connections", "Providing interfaces to services", "Forcing identical computers", "Disabling communication"], a: 1 },
         { q: "\"Treating everything as a file\" is called:", opts: ["Distributed databases", "Unified File Access", "Name services", "Persistence services"], a: 1 },
         { q: "The UNIX/Plan 9 approach treats:", opts: ["Only documents as files", "Only local resources", "All resources (including I/O) as files", "Remote differently from local"], a: 2 },
-        { q: "In In the file-as-a-model approach, is there a difference between local and remote files?", opts: ["Handled differently", "Only remote can open", "No difference; same open/read/write/close", "Only local can close"], a: 1 },
+        { q: "In In the file-as-a-model approach, is there a difference between local and remote files?", opts: ["Handled differently", "Only remote can open", "No difference; same open/read/write/close", "Only local can close"], a: 2 },
         { q: "A Distributed File System (DFS) is:", opts: ["Single file on one machine", "Classical file system distributed across machines", "Firewall rules", "Naming server only"], a: 1 },
         { q: "DFS main purpose is to:", opts: ["Remove sharing", "Promote sharing of dispersed files", "Increase memory only", "Stop network communication"], a: 1 },
         { q: "Distribution transparency in DFS is for:", opts: ["Only processes/threads", "Only traditional data files", "Only security keys", "Only UI elements"], a: 1 },
