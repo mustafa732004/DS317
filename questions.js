@@ -225,7 +225,7 @@ const QUIZ_DATA = {
         { q: "Distribution transparency in DFS is for:", opts: ["Only processes/threads", "Only traditional data files", "Only security keys", "Only UI elements"], a: 1 },
         { q: "RPC stands for:", opts: ["Remote Process Connection", "Remote Procedure Calls", "Rapid Protocol Communication", "Register Procedure Channels"], a: 1 },
         { q: "In RPC, parameters are:", opts: ["Sent manually by programmer", "Not allowed to transfer", "Shipped transparently to remote machine", "Stored only locally"], a: 2 },
-        { q: "With RPC, the calling process remains:", opts: ["Aware of network communication", "Responsible for remote execution", "Unaware of network communication", "Unable to receive results"], a: 0 },
+        { q: "With RPC, the calling process remains:", opts: ["Aware of network communication", "Responsible for remote execution", "Unaware of network communication", "Unable to receive results"], a: 2 },
         { q: "Object orientation in middleware enables:", opts: ["Only local invocation", "Invoking remote objects via interfaces hiding internals", "Direct access to internal state", "Disabling interfaces"], a: 1 },
         { q: "An object interface consists of:", opts: ["Only data fields", "Internal implementation", "Methods the object implements", "Only protocol name"], a: 2 },
         { q: "Naming services are concerned with:", opts: ["Encrypting data", "External names so components identified by name server", "Saving workflow in memory", "Atomic transactions"], a: 1 },
