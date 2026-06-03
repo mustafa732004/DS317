@@ -235,7 +235,7 @@ const QUIZ_DATA = {
         { q: "Distributed transactions ensure:", opts: ["Only speed", "Atomicity across distributed data", "Compression", "Cache consistency only"], a: 1 },
         { q: "Atomicity means:", opts: ["Always partial success", "Always retries", "All writes succeed or none affect data", "Only atomic reads"], a: 2 },
         { q: "Security services in middleware must be:", opts: ["Non-invasive optional", "Invasive; cannot rely on local OS alone", "Only at routers", "Never in middleware"], a: 1 },
-        { q: "Middleware may not be truly open because:", opts: ["Always more open", "Never hides heterogeneity", "Strong dependency on specific middleware", "No interfaces"], a: 1 },
+        { q: "A big reason middleware implementations may not be truly open is that: ", opts: ["Always more open", "Never hides heterogeneity", "Independence is replaced by strong dependency on specific middleware ", "No interfaces"], a: 2 },
         { q: "Complete interfaces mean:", opts: ["Only documentation", "Interfaces guessed by developers", "Everything needed to implement is specified", "One vendor only"], a: 2 }
       ],
       tf: [
